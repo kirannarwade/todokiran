@@ -1,5 +1,5 @@
 <?php
 
-    include_once("base.html");
+    include_once("templates/base.html");
 
 ?>
